@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there! 👋
 
 My name is Gabrielle and I am an aspiring healthcare data analyst and tech enthusiast. I am eager to advance my career and contribute to innovative healthcare solutions.
 
