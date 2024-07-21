@@ -9,4 +9,5 @@ My name is Gabrielle and I am an aspiring healthcare data analyst and tech enthu
 - 📚 Feel free to check out my projects and contributions as they grow.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielleducran).
 
+[![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducran)](https://github.com/anuraghazra/github-readme-stats)
 
