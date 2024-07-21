@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Gabrielle and I am an aspiring healthcare data analyst and tech enthusiast. I am currently a student at ________ University 🎓, where I am pursuing a pre-health track. I am eager to advance my career and contribute to innovative healthcare solutions.
+My name is Gabrielle and I am an aspiring healthcare data analyst and tech enthusiast. I am eager to advance my career and contribute to innovative healthcare solutions.
 
 - 🔭 I am currently working on **Medology**, a platform dedicated to New York City college students pursuing a career in the healthcare and research field. It focuses on developing study strategies, career development skills, and connecting with peers.
 - 🌱 I am currently learning **HTML**, **CSS**, and **JavaScript**. 
