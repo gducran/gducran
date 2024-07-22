@@ -9,5 +9,17 @@ My name is Gabrielle and I am an aspiring healthcare data analyst and tech enthu
 - 📚 Feel free to check out my projects and contributions as they grow.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielleducran).
 
-[![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducran)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gducran&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gducran&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gducran&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gducran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gducran&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
